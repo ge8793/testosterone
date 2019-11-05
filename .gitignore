@@ -29,3 +29,4 @@ environment
 run_scripts
 output
 config_testost_osarc
+mrbase.oauth
